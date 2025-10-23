@@ -1,4 +1,4 @@
-Calculadora da Fórmula de Heron (Java)
+# Calculadora da Fórmula de Heron (Java)
 Um projeto simples de console em Java para calcular a área de um triângulo utilizando a Fórmula de Heron.
 
 O que é a Fórmula de Heron?
